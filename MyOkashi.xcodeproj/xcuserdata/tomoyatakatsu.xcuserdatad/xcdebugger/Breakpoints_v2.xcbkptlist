@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C488FAA5-70A4-4E05-9FC3-A6D347EC3ABE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CE442FE-D70A-474F-BF92-8973A8C43BDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyOkashi/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "searchOkashi(searchWord:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "607BB19E-4828-4A32-9FD7-8F800795DD74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyOkashi/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "searchOkashi(searchWord:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "607BB19E-4828-4A32-9FD7-8F800795DD74 - f0b947f597ec29f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyOkashi.ViewController.searchOkashi(searchWord: Swift.String) -&gt; ()"
+                  moduleName = "MyOkashi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomoyatakatsu/Documents/XcodeProjects/Swift-Beginners/MyOkashi/MyOkashi/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1153">
+               </Location>
+               <Location
+                  uuid = "607BB19E-4828-4A32-9FD7-8F800795DD74 - f0b947f597ec29f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyOkashi.ViewController.searchOkashi(searchWord: Swift.String) -&gt; ()"
+                  moduleName = "MyOkashi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomoyatakatsu/Documents/XcodeProjects/Swift-Beginners/MyOkashi/MyOkashi/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2A7ED77-BD5B-4853-83E2-9A6A0B3C2A87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyOkashi/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "searchOkashi(searchWord:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2A7ED77-BD5B-4853-83E2-9A6A0B3C2A87 - f0b947f597ec293f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyOkashi.ViewController.searchOkashi(searchWord: Swift.String) -&gt; ()"
+                  moduleName = "MyOkashi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomoyatakatsu/Documents/XcodeProjects/Swift-Beginners/MyOkashi/MyOkashi/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  uuid = "E2A7ED77-BD5B-4853-83E2-9A6A0B3C2A87 - f0b947f597ec293f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyOkashi.ViewController.searchOkashi(searchWord: Swift.String) -&gt; ()"
+                  moduleName = "MyOkashi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomoyatakatsu/Documents/XcodeProjects/Swift-Beginners/MyOkashi/MyOkashi/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1561">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
